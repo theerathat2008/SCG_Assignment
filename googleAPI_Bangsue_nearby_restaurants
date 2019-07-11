@@ -1,0 +1,5 @@
+https://maps.googleapis.com/maps/api/place/nearbysearch/json
+	?location=13.8282530, 100.5284507
+	&radius=1500
+	&type=restaurant
+	&key=AIzaSyBXCIL4JevjrJhpoKeqnybJ6qxiSSYP2RE
